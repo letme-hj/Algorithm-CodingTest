@@ -1,4 +1,4 @@
-# [1번째 시도] 과자 나눠주기
+### [1번째 시도] 과자 나눠주기
 
 import numpy as np
 import copy
@@ -8,7 +8,6 @@ l = list(map(int, input().split()))
 
 assert len(l)==n
 
-# l.sort() # sort
 l = np.array(l)
 
 def how_many(length, l):
@@ -56,7 +55,7 @@ while True:
 print(optimal_l)
 
 
-# [2번째 시도] numpy 제거(?)
+### [2번째 시도] numpy 제거(?)
 
 import copy
 
@@ -64,9 +63,6 @@ m, n = map(int, input().split())
 l = list(map(int, input().split()))
 
 assert len(l)==n
-
-# l.sort() # sort
-# l = np.array(l)
 
 def how_many(length, l):
     """
@@ -159,6 +155,39 @@ while True:
     if start>end or mid ==0:
         break
     
+    total = 0
+    for i in l:
+        if i >= mid:
+            total += i//mid
+
+    if total>=m:
+        if optimal_l < mid:
+            optimal_l = mid
+        start = mid+1
+    
+    elif total<m:
+        end = mid-1
+        
+
+print(optimal_l)
+
+## [5번째 시도] 추가 제출 (입력을 sys.stdin으로 받고, // 대신 int(연산결과) 사용)-> 후자가 시간을 대폭 줄여줌..!
+
+import sys
+
+m, n=map(int, sys.stdin.readline().split())
+l=list(map(int, sys.stdin.readline().split()))
+
+start = 1
+end = max(l)
+optimal_l = 0
+
+while True:
+    mid = int((start+end)/2)
+
+    if start>end:
+        break
+
     total = 0
     for i in l:
         if i >= mid:
