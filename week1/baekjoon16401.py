@@ -172,6 +172,7 @@ while True:
 print(optimal_l)
 
 ## [5번째 시도] 추가 제출 (입력을 sys.stdin으로 받고, // 대신 int(연산결과) 사용)-> 후자가 시간을 대폭 줄여줌..!
+## 추가로, total>=m일때 if문 지워줌. 어차피 optimal_l보다 큰 mid일 것.
 
 import sys
 
@@ -194,7 +195,7 @@ while True:
             total += i//mid
 
     if total>=m:
-        if optimal_l < mid:
+        if optimal_l < mid: # 이 if문 삭제하면 python 코드 중 가장 성적 좋아짐!
             optimal_l = mid
         start = mid+1
     
