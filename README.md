@@ -8,7 +8,7 @@ From Study group ...
 [Q1](https://www.acmicpc.net/problem/10815)
 
 - Binary search<br>
-[Q1](https://www.acmicpc.net/problem/16401)
+[Q1](https://www.acmicpc.net/problem/16401) / [A1](week1/baekjoon16401.py)
 
 - BFS/DFS<br>
 [Q1](https://www.acmicpc.net/problem/2606)
