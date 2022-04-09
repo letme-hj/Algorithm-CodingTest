@@ -20,4 +20,4 @@ Hope this repository helps me out with coding tests some day...!
 
 ---
 ### 자잘하게 알아가는 Tips
-- n//a 보다 int(n/a)가 훨씬 빠름. 특히 연산이 반복문 안에 있다면 <br>_(참고) Binary Search [[Sol1](week1/baekjoon16401.py)]_
+- `n//a` 보다 `int(n/a)`가 훨씬 빠름. 특히 연산이 반복문 안에 있다면 <br>_(참고) Binary Search [[Sol1](week1/baekjoon16401.py)]_
