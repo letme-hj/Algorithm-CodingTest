@@ -5,7 +5,7 @@ Hope this repository helps me out with coding tests some day...!
 ---
 ### From the Study group ...
 - Sorting<br>
-[Q1](https://www.acmicpc.net/problem/10815)
+[Q1](https://www.acmicpc.net/problem/10815)  [[Sol1](week1/baekjoon10815.py)]
 
 - Binary search<br>
 [Q1](https://www.acmicpc.net/problem/16401)  [[Sol1](week1/baekjoon16401.py)]
@@ -21,3 +21,5 @@ Hope this repository helps me out with coding tests some day...!
 ---
 ### 자잘하게 알아가는 Tips
 - `n//a` 보다 `int(n/a)`가 훨씬 빠름. 특히 연산이 반복문 안에 있다면 <br>_(참고) Binary Search [[Sol1](week1/baekjoon16401.py)]_
+- 속해있는지 확인하기 위해 `in` 사용하는 게, 리스트에서는 안 되나봄. (정확히는 모르겠지만 `set`으로 감싸주고 하니까 잘 작동함)<br>
+  _(참고) Sorting [[Sol1](week1/baekjoon10815.py)]_
