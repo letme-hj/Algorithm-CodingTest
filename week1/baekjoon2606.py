@@ -51,8 +51,9 @@ for i in range(connections):
 
 visited = [0 for _ in range(n+1)]
 
-def bfs(array, node, visited):
+def dfs(array, node, visited):
     """연결된 Node 출력. 단 visited 빼고"""
+    # 사실 bfs가 아니라 dfs인가... 이게 뭐지
     result = [node]
     visited[node] = 1
     for i in array[node]:
@@ -66,4 +67,4 @@ def bfs(array, node, visited):
     return result
     
 
-print(len(bfs(graph, 1, visited))-1)
+print(len(dfs(graph, 1, visited))-1)
