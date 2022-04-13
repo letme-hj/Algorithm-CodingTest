@@ -11,10 +11,10 @@ Hope this repository helps me out with coding tests some day...!
 [Q1](https://www.acmicpc.net/problem/16401)  [[Sol1](week1/baekjoon16401.py)]
 
 - BFS/DFS<br>
-[Q1](https://www.acmicpc.net/problem/2606)
+[Q1](https://www.acmicpc.net/problem/2606)  [[Sol1](week1/baekjoon2606.py)]
 
 - Implementation<br>
-[Q1](https://programmers.co.kr/learn/courses/30/lessons/68645)
+[Q1](https://programmers.co.kr/learn/courses/30/lessons/68645)  [[Sol1](week1/programmers68645.py)]
 
 <br>
 
