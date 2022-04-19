@@ -16,6 +16,19 @@ Hope this repository helps me out with coding tests some day...!
 - Implementation<br>
 [Q1](https://programmers.co.kr/learn/courses/30/lessons/68645)  [[Sol1](week1/programmers68645.py)]
 
+- Queue<br>
+[Q1](https://www.acmicpc.net/problem/14713)  [[Sol1](week2/baekjoon14713.py)]
+
+- Stack<br>
+[Q1](https://www.acmicpc.net/problem/1725)
+
+- Greedy<br>
+[Q1](https://www.acmicpc.net/problem/1931)  [[Sol1](week2/baekjoon1931.py)]
+
+- String<br>
+[Q1](https://www.acmicpc.net/problem/4949)
+
+
 <br>
 
 ---

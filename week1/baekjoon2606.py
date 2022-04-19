@@ -62,7 +62,7 @@ def dfs(array, node, visited):
             visited[i] = 1
             # print(f'visited: {visited}')
             # input()
-            result.extend(bfs(array, i, visited))
+            result.extend(dfs(array, i, visited))
     return result
     
 

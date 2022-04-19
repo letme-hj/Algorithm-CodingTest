@@ -1,7 +1,5 @@
 # 삼각 달팽이
 
-
-
 def solution(n):
     answer = [[] for _ in range(n)] # 정답 모을 것
     reverse_array = [[] for _ in range(n)] # 위쪽 방향으로 갈 때는 반대쪽에 붙어있어야 해서 따로 모으고 나중에 Reverse해서 붙일 것
