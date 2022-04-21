@@ -26,7 +26,7 @@ Hope this repository helps me out with coding tests some day...!
 [Q1](https://www.acmicpc.net/problem/1931)  [[Sol1](week2/baekjoon1931.py)]
 
 - String<br>
-[Q1](https://www.acmicpc.net/problem/4949)
+[Q1](https://www.acmicpc.net/problem/4949) [[Sol1](week2/baekjoon4949.py)]
 
 
 <br>
