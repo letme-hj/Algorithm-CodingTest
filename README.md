@@ -15,7 +15,7 @@ Hope this repository helps me out with coding tests some day...!
 
 - Implementation<br>
 [Q1](https://programmers.co.kr/learn/courses/30/lessons/68645)  [[Sol1](week1/programmers68645.py)]<br>
-Q2  [[Sol2](this_is_coding_test/12-7.py)]<br>
+[Q2](https://www.acmicpc.net/problem/18406)  [[Sol2](this_is_coding_test/12-7.py)]<br>
 Q3  [[Sol3](this_is_coding_test/12-8.py)]
 
 - Queue<br>
@@ -40,3 +40,4 @@ Q3  [[Sol3](this_is_coding_test/11-2.py)]
 - `n//a` 보다 `int(n/a)`가 훨씬 빠름. 특히 연산이 반복문 안에 있다면 <br>_(참고) Binary Search [[Sol1](week1/baekjoon16401.py)]_
 - 속해있는지 확인하기 위해 `in` 사용하는 게, 리스트에서는 안 되나봄. (정확히는 모르겠지만 `set`으로 감싸주고 하니까 잘 작동함)<br>
   _(참고) Sorting [[Sol1](week1/baekjoon10815.py)]_
+- 리스트 내 원소 다 더할 때, for문으로 더하는 것보다 `sum` 내장 함수 활용하는 게 10배 정도 빠름!<br>
