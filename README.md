@@ -15,6 +15,8 @@ Hope this repository helps me out with coding tests some day...!
 
 - Implementation<br>
 [Q1](https://programmers.co.kr/learn/courses/30/lessons/68645)  [[Sol1](week1/programmers68645.py)]
+Q2  [[Sol2](this_is_coding_test/12-7.py)]
+Q3  [[Sol3](this_is_coding_test/12-8.py)]
 
 - Queue<br>
 [Q1](https://www.acmicpc.net/problem/14713)  [[Sol1](week2/baekjoon14713.py)]
@@ -24,6 +26,8 @@ Hope this repository helps me out with coding tests some day...!
 
 - Greedy<br>
 [Q1](https://www.acmicpc.net/problem/1931)  [[Sol1](week2/baekjoon1931.py)]
+Q2  [[Sol2](this_is_coding_test/11-1.py)]
+Q3  [[Sol3](this_is_coding_test/11-2.py)]
 
 - String<br>
 [Q1](https://www.acmicpc.net/problem/4949) [[Sol1](week2/baekjoon4949.py)]
