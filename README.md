@@ -5,9 +5,9 @@ Hope this repository helps me out with coding tests some day...!
 ---
 ### From the Study group ...
 - Sorting<br>
-[Q1](https://www.acmicpc.net/problem/10815)  [[Sol1](week1/baekjoon10815.py)]
-[Q2](https://www.acmicpc.net/problem/1940)  [[Sol2](week4/baekjoon1940.py)]
-[Q3](https://www.acmicpc.net/problem/1715)  [[Sol3](this_is_coding_test/14-26.py)
+[Q1](https://www.acmicpc.net/problem/10815)  [[Sol1](week1/baekjoon10815.py)]<br>
+[Q2](https://www.acmicpc.net/problem/1940)  [[Sol2](week4/baekjoon1940.py)]<br>
+[Q3](https://www.acmicpc.net/problem/1715)  [[Sol3](this_is_coding_test/14-26.py)<br>
 
 - Binary search<br>
 [Q1](https://www.acmicpc.net/problem/16401)  [[Sol1](week1/baekjoon16401.py)]
