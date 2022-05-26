@@ -6,12 +6,16 @@ Hope this repository helps me out with coding tests some day...!
 ### From the Study group ...
 - Sorting<br>
 [Q1](https://www.acmicpc.net/problem/10815)  [[Sol1](week1/baekjoon10815.py)]
+[Q2](https://www.acmicpc.net/problem/1940)  [[Sol2](week4/baekjoon1940.py)]
+[Q3](https://www.acmicpc.net/problem/1715)  [[Sol3](this_is_coding_test/14-26.py)
 
 - Binary search<br>
 [Q1](https://www.acmicpc.net/problem/16401)  [[Sol1](week1/baekjoon16401.py)]
 
 - BFS/DFS<br>
 [Q1](https://www.acmicpc.net/problem/2606)  [[Sol1](week1/baekjoon2606.py)]
+[Q2](https://www.acmicpc.net/problem/11060)  [[Sol2](week4/baekjoon11060.py)]
+[Q3](https://www.acmicpc.net/problem/18352)  [[Sol3](this_is_coding_test/13-15.py)]
 
 - Implementation<br>
 [Q1](https://programmers.co.kr/learn/courses/30/lessons/68645)  [[Sol1](week1/programmers68645.py)]<br>
@@ -22,7 +26,7 @@ Q3  [[Sol3](this_is_coding_test/12-8.py)]
 [Q1](https://www.acmicpc.net/problem/14713)  [[Sol1](week2/baekjoon14713.py)]
 
 - Stack<br>
-[Q1](https://www.acmicpc.net/problem/1725)
+[Q1](https://www.acmicpc.net/problem/1725)  
 
 - Greedy<br>
 [Q1](https://www.acmicpc.net/problem/1931)  [[Sol1](week2/baekjoon1931.py)]<br>
